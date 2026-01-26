@@ -3,6 +3,57 @@
 
 @import "minima";
 
+:root {
+    --primary-blue: #2563eb;    
+    --primary-dark-blue: #1e40af;
+    --accent-green: #16a34a;      
+  }
+.project-title {
+    margin: 0;
+}
+.project-desc {
+    margin: .4rem 0 .8rem;
+    color: #666;
+  }
+  .tag-row {
+    display: flex;
+    gap: .5rem;
+    flex-wrap: wrap;
+    margin: .5rem 0 1rem;
+  }
+  .tag {
+    font-size: .85rem;
+    padding: .25rem .6rem;
+    border-radius: 999px;
+    border: 1px solid #e6e6e6;
+    background: #fafafa;
+  }
+  .project-bullets {
+    margin: 0 0 1rem 1.1rem;
+  }
+  
+  .project-actions {
+    display: flex;
+    gap: .75rem;
+    flex-wrap: wrap;
+    margin: .5rem 0 1.25rem;
+  }
+  .btn {
+    display: inline-block;
+    padding: .65rem 1rem;
+    border-radius: 12px;
+    border: 1px solid #222;
+    background: #222;
+    color: #fff !important;
+    text-decoration: none !important;
+    font-weight: 600;
+  }
+  .btn:hover { opacity: .9; }
+
+.btn-outline {
+  background: transparent;
+  color: #222 !important;
+}    
 .profile-pic {
   width: 200px;
   border-radius: 999px;
@@ -15,9 +66,18 @@
     gap: 1rem;
     margin: 1rem 0 1.25rem;
   }
+  .project-figure {
+    margin: 0;
+  }
 .project-img {
   width: 100%;
   border-radius: 14px;
   border: 1px solid #e6e6e6;
   box-shadow: 0 2px 12px rgba(0,0,0,.06);
 }
+.project-figure figcaption {
+    margin-top: .5rem;
+    font-size: .9rem;
+    color: #666;
+    text-align: center;
+  }
