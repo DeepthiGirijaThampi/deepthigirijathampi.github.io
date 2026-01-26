@@ -46,5 +46,6 @@ permalink: /projects/
       <img src="{{ '/assets/project-one-profile.png' | relative_url }}" class="project-img" alt="Ava's Learning Hub Profile">
       <figcaption>Profile</figcaption>
     </figure>
+    
   </div>
 </div>
