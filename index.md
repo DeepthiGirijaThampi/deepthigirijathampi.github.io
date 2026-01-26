@@ -9,7 +9,9 @@ title : Home
 <!-- ![My Image](assets/deepthi.jpg) -->
 <img src="{{ '/assets/deepthi.jpg' | relative_url }}" class="profile-pic" alt="Display Picture">
 
+<p class="intro-text">
 I am a software developer in training with hands-on experience in JavaScript, React, Java, SQL, HTML, and CSS. I enjoy building interactive applications, learning backend concepts, and continuously growing my technical skills.
+</p>
 
 ### Technical Skills
 - JavaScript, React

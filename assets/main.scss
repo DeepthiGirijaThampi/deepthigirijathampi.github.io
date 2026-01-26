@@ -98,3 +98,11 @@ a {
 a:hover {
     color: var(--primary-dark-blue);
   }
+
+.intro-text {
+    max-width: 680px;
+    margin: 0 auto 1.5rem;
+    font-size: 1.05rem;
+    line-height: 1.7;
+    text-align: center;
+  }
