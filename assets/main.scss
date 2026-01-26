@@ -81,3 +81,21 @@
     color: #666;
     text-align: center;
   }
+  .project-card {
+    padding: 1.25rem;
+    border: 1px solid #e6e6e6;
+    border-radius: 18px;
+    box-shadow: 0 2px 14px rgba(0,0,0,.05);
+    margin-top: 1rem;
+  }
+  .project-top {
+    margin-bottom: 1rem;
+  }
+  a {
+    color: var(--primary-blue);
+  }
+  
+  a:hover {
+    color: var(--primary-dark-blue);
+  }
+  
