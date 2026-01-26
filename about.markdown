@@ -6,7 +6,7 @@ permalink: /contacts/
 
 ## Contact Me
 
-Email : deepthig01@gmail.com
+Email : [deepthig01@gmail.com](mailto:deepthig01@gmail.com)
 
 GitHub : [www.github.com/deepthigirijathampi](https://github.com/deepthigirijathampi)
 
