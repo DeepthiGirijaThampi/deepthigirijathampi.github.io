@@ -13,7 +13,9 @@ title : Home
 I am a software developer in training with hands-on experience in JavaScript, React, Java, SQL, HTML, and CSS. I enjoy building interactive applications, learning backend concepts, and continuously growing my technical skills.
 </p>
 <hr>
+
 ### Technical Skills
+
 <div class="skills-grid">
 <span class="tag">JavaScript</span>
   <span class="tag">React</span>
@@ -25,6 +27,9 @@ I am a software developer in training with hands-on experience in JavaScript, Re
   <span class="tag">GitHub</span>
 </div>
 
-### Career Goal
-Seeking entry-level software developer opportunities where I can contribute, learn, and grow in a collaborative environment.
+<h3 class="section-title">Career Goal</h3>
+
+<p class="goal-text">
+  Seeking entry-level software developer opportunities where I can contribute, learn, and grow in a collaborative environment.
+</p>
 
