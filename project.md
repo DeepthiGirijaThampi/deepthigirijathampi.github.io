@@ -3,12 +3,14 @@ layout: page
 title: Project Works
 permalink: /projects/
 ---
-### My Projects
+
+# My Projects
 
 <div class="project-card">
   <div class="project-top">
     <div>
       <h2 class="project-title">Ava’s Learning Hub</h2>
+
       <p class="project-desc">
         A React-based learning planner that helps users organize subjects, units, and reflections.
       </p>
@@ -30,13 +32,6 @@ permalink: /projects/
         <a class="btn" href="https://github.com/DeepthiGirijaThampi/ava-learning-hub" target="_blank" rel="noopener">
           GitHub Repo
         </a>
-
-        <!-- If you have a deployed link, paste it and remove the comment -->
-        <!--
-        <a class="btn btn-outline" href="PASTE_LIVE_LINK_HERE" target="_blank" rel="noopener">
-          Live Demo
-        </a>
-        -->
       </div>
     </div>
   </div>
