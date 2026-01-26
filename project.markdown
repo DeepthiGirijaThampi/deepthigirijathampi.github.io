@@ -14,8 +14,11 @@ A React-based learning planner that allows users to organize subjects, units, an
 - Responsive UI
 - CRUD functionality
 
-<img src="/assets/project-one-home.png" width="300">
+ 
+<div class="project-grid">
+<img src="/assets/project-one-home.png" class="project-img" width="300">
 
-<img src="/assets/project-one-profile.png" width = "300">
+<img src="/assets/project-one-profile.png" class="project-img"  width = "300">
+</div>
 
 [Click for GitHub Repo](https://github.com/DeepthiGirijaThampi/ava-learning-hub)
