@@ -14,11 +14,16 @@ I am a software developer in training with hands-on experience in JavaScript, Re
 </p>
 
 ### Technical Skills
-- JavaScript, React
-- Java (OOP basics)
-- SQL, MySQL Workbench
-- HTML, CSS
-- Git & GitHub
+<div class="skills-grid">
+<span class="tag">JavaScript</span>
+  <span class="tag">React</span>
+  <span class="tag">Java</span>
+  <span class="tag">SQL</span>
+  <span class="tag">HTML</span>
+  <span class="tag">CSS</span>
+  <span class="tag">Git</span>
+  <span class="tag">GitHub</span>
+</div>
 
 ### Career Goal
 Seeking entry-level software developer opportunities where I can contribute, learn, and grow in a collaborative environment.

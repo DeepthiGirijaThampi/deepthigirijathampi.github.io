@@ -106,3 +106,10 @@ a:hover {
     line-height: 1.7;
     text-align: center;
   }
+.skills-grid {
+    display: flex;
+    gap: .5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: .75rem 0 2rem;
+  }
