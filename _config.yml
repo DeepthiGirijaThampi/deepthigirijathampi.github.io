@@ -31,10 +31,10 @@ linkedin_username: deepthigirijathampi
 theme: minima
 plugins:
   - jekyll-feed
-# header_pages:
-#   - projects.md
-#   - resume.md
-#   - contacts.md
+header_pages:
+  - projects.md
+  - resume.md
+  - about.md
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
