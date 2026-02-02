@@ -26,8 +26,8 @@ I am a software developer in training with hands-on experience in JavaScript, Re
   <span class="tag">Git</span>
   <span class="tag">GitHub</span>
 </div>
-
 <hr>
+
 <h3 class="section-title">Career Goal</h3>
 <!-- ### Career Goals -->
 <p class="goal-text">
