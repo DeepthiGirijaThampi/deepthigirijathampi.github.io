@@ -27,8 +27,8 @@ I am a software developer in training with hands-on experience in JavaScript, Re
   <span class="tag">GitHub</span>
 </div>
 
-<!-- <h3 class="section-title">Career Goal</h3> -->
-### Career Goals
+<h3 class="section-title">Career Goal</h3>
+<!-- ### Career Goals -->
 <p class="goal-text">
   Seeking entry-level software developer opportunities where I can contribute, learn, and grow in a collaborative environment.
 </p>
