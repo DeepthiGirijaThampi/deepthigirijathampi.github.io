@@ -144,3 +144,49 @@ a:hover {
   .project-top {
     margin-bottom: 1rem;
   }
+
+  /* Contacts page */
+.contact-card {
+    max-width: 720px;
+    margin: 1.25rem auto;
+    padding: 1.5rem;
+    border: 1px solid #e6e6e6;
+    border-radius: 18px;
+    box-shadow: 0 2px 14px rgba(0,0,0,.05);
+    background: #fff;
+  }
+  
+  .contact-card h2 {
+    margin-top: 0;
+  }
+  
+  .contact-subtext {
+    margin: .35rem 0 1.25rem;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  .contact-list {
+    display: grid;
+    gap: .85rem;
+  }
+  
+  .contact-item {
+    display: grid;
+    grid-template-columns: 110px 1fr;
+    gap: .75rem;
+    align-items: center;
+    padding: .85rem 1rem;
+    border: 1px solid #eee;
+    border-radius: 14px;
+    background: #fafafa;
+  }
+  
+  .contact-label {
+    font-weight: 700;
+    color: #222;
+  }
+  
+  .contact-link {
+    word-break: break-word;
+  }
